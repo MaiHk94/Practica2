@@ -1,0 +1,1 @@
+print("¡Hola, esta es la versión 1.0 del programa!")
